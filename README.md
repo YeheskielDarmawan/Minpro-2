@@ -85,30 +85,23 @@ pthon
 
 output diterminal
 Penjelasan Output di Terminal Berdasarkan Role
-🔹 1. Saat Program Pertama Kali Dijalankan
+1. Saat Program Pertama Kali Dijalankan
 
 Output identitas selalu muncul lebih dulu:
-
 Nama    : Yeheskiel Darmawan
 Nim     : 2509116027
 Prodi   : Sistem Informasi
 
-
 Kemudian masuk ke menu login:
-
 === LOGIN SISTEM ===
 Username: 
 Password: 
 
-🔹 2. Jika Login sebagai Manager
-
+2. Jika Login sebagai Manager
 Jika username = manager dan password = 1234:
-
 Login berhasil! Selamat datang, manager.
 
-
-Program menampilkan Menu Manager:
-
+Program menampilkan Menu Manager
 === MENU MANAGER ===
 1. Tambah Data
 2. Lihat Data
@@ -117,81 +110,54 @@ Program menampilkan Menu Manager:
 5. Logout
 Pilih menu (1-5): 
 
-
 Contoh output saat lihat data:
-
 === Daftar Kurs Mata Uang ===
 USD : 1.0
 EUR : 0.92
 GBP : 0.8
 JPY : 147.75
 IDR : 15648.38
-...
-
 
 Contoh output saat tambah data berhasil:
-
 Masukkan kode mata uang: PHP
 Masukkan nilai kurs: 58.5
 Data berhasil ditambahkan.
 
-
 Contoh output saat update data berhasil:
-
 Masukkan kode mata uang yang ingin diupdate: IDR
 Masukkan nilai kurs baru: 15600
 Data berhasil diperbarui.
 
-
 Contoh output saat hapus data berhasil:
-
 Masukkan kode mata uang yang ingin dihapus: JPY
 Data berhasil dihapus.
 
-
 Jika logout:
-
 Logout berhasil.
 
-🔹 3. Jika Login sebagai Karyawan
-
+3. Jika Login sebagai Karyawan
 Jika username = karyawan dan password = 1111:
-
 Login berhasil! Selamat datang, karyawan.
 
-
 Program menampilkan Menu Karyawan:
-
 === MENU KARYAWAN ===
 1. Lihat Data
 2. Logout
 Pilih menu (1-2): 
 
-
 Jika pilih lihat data, hasilnya sama seperti Manager, contoh:
-
 === Daftar Kurs Mata Uang ===
 USD : 1.0
 EUR : 0.92
 GBP : 0.8
 JPY : 147.75
 IDR : 15648.38
-...
-
 
 Jika logout:
-
 Logout berhasil.
 
-✨ Perbedaan Utama Output
-
-Manager → bisa menambah, melihat, mengupdate, dan menghapus data (CRUD).
-
-Karyawan → hanya bisa melihat data dan logout.
-
-Mau saya buatkan perbandin
-
-
-<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/90104887-f8bf-49b9-896a-ea2875f23762" />
-<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/aa3fb36e-620f-4b31-9d3a-53796a068028" />
-
+output
+<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/67bf7e06-1241-4355-bb3d-8dabea9d2ee8" />
+<img width="1920" height="1080" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/69895831-9a1e-40b0-8427-da760d54b81d" />
+<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/80c46b83-56b9-4d07-a67d-ae4c633b0baf" />
+<img width="1920" height="1080" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/07999037-3279-4efb-9236-5522d523b00a" />
