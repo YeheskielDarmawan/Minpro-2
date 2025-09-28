@@ -83,3 +83,110 @@ pthon
 <img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/6f5f819c-eab8-4c46-8982-380c8fb4dba6" />
 <img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/dfcaec51-5e39-4e9f-ae85-9364f29cfa0c" />
 
+output diterminal
+Penjelasan Output di Terminal Berdasarkan Role
+🔹 1. Saat Program Pertama Kali Dijalankan
+
+Output identitas selalu muncul lebih dulu:
+
+Nama    : Yeheskiel Darmawan
+Nim     : 2509116027
+Prodi   : Sistem Informasi
+
+
+Kemudian masuk ke menu login:
+
+=== LOGIN SISTEM ===
+Username: 
+Password: 
+
+🔹 2. Jika Login sebagai Manager
+
+Jika username = manager dan password = 1234:
+
+Login berhasil! Selamat datang, manager.
+
+
+Program menampilkan Menu Manager:
+
+=== MENU MANAGER ===
+1. Tambah Data
+2. Lihat Data
+3. Update Data
+4. Hapus Data
+5. Logout
+Pilih menu (1-5): 
+
+
+Contoh output saat lihat data:
+
+=== Daftar Kurs Mata Uang ===
+USD : 1.0
+EUR : 0.92
+GBP : 0.8
+JPY : 147.75
+IDR : 15648.38
+...
+
+
+Contoh output saat tambah data berhasil:
+
+Masukkan kode mata uang: PHP
+Masukkan nilai kurs: 58.5
+Data berhasil ditambahkan.
+
+
+Contoh output saat update data berhasil:
+
+Masukkan kode mata uang yang ingin diupdate: IDR
+Masukkan nilai kurs baru: 15600
+Data berhasil diperbarui.
+
+
+Contoh output saat hapus data berhasil:
+
+Masukkan kode mata uang yang ingin dihapus: JPY
+Data berhasil dihapus.
+
+
+Jika logout:
+
+Logout berhasil.
+
+🔹 3. Jika Login sebagai Karyawan
+
+Jika username = karyawan dan password = 1111:
+
+Login berhasil! Selamat datang, karyawan.
+
+
+Program menampilkan Menu Karyawan:
+
+=== MENU KARYAWAN ===
+1. Lihat Data
+2. Logout
+Pilih menu (1-2): 
+
+
+Jika pilih lihat data, hasilnya sama seperti Manager, contoh:
+
+=== Daftar Kurs Mata Uang ===
+USD : 1.0
+EUR : 0.92
+GBP : 0.8
+JPY : 147.75
+IDR : 15648.38
+...
+
+
+Jika logout:
+
+Logout berhasil.
+
+✨ Perbedaan Utama Output
+
+Manager → bisa menambah, melihat, mengupdate, dan menghapus data (CRUD).
+
+Karyawan → hanya bisa melihat data dan logout.
+
+Mau saya buatkan perbandin
