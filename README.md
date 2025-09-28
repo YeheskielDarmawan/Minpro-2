@@ -72,3 +72,9 @@ Jika Karyawan → hanya bisa melihat data.
 Program berhasil menerapkan sistem login dengan role manager dan karyawan.
 Manager dapat mengelola data (CRUD), sedangkan Karyawan hanya dapat melihat data.
 Penggunaan CRUD dan error handling membuat program lebih terstruktur dan aman dari kesalahan input.
+
+
+<img width="1024" height="1536" alt="Diagram Manajemen Sistem Mata Uang" src="https://github.com/user-attachments/assets/3819de8c-9dd7-4b54-9988-f3eeb4cb3368" />
+
+
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/fdac9a42-0973-4373-8123-d3a886095366" />
