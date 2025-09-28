@@ -73,8 +73,13 @@ Program berhasil menerapkan sistem login dengan role manager dan karyawan.
 Manager dapat mengelola data (CRUD), sedangkan Karyawan hanya dapat melihat data.
 Penggunaan CRUD dan error handling membuat program lebih terstruktur dan aman dari kesalahan input.
 
-
+FLOWCHART
 <img width="1024" height="1536" alt="Diagram Manajemen Sistem Mata Uang" src="https://github.com/user-attachments/assets/3819de8c-9dd7-4b54-9988-f3eeb4cb3368" />
 
+pthon
+<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/50f8c0b8-809c-4106-b3ce-d786d211fbc3" />
+<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/6719434b-2887-47f0-8124-d1cea7e076ef" />
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/01f75810-3250-4ddf-b4f4-c189dcf0fc07" />
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/6f5f819c-eab8-4c46-8982-380c8fb4dba6" />
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/dfcaec51-5e39-4e9f-ae85-9364f29cfa0c" />
 
-<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/fdac9a42-0973-4373-8123-d3a886095366" />
