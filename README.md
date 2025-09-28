@@ -190,3 +190,8 @@ Manager → bisa menambah, melihat, mengupdate, dan menghapus data (CRUD).
 Karyawan → hanya bisa melihat data dan logout.
 
 Mau saya buatkan perbandin
+
+
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/90104887-f8bf-49b9-896a-ea2875f23762" />
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/aa3fb36e-620f-4b31-9d3a-53796a068028" />
+
